@@ -17,6 +17,8 @@ Following two projects have been implemented in this repository:
 1. [pagerank](./pagerank/) - Simple Python Search Spider, Page Ranker, and Visualizer
 2. [my edited gmane](./my%20edited%20gmane/) - Analyzing an EMAIL Archive from [gmane](http://gmane.org/export.php) and vizualizing the data using the D3 JavaScript library.
 
+**_Note:_** Database files (sqlite) have been stored using [Git Large File Storage](https://git-lfs.github.com/)
+
 ## Page Rank
 
 This is a set of programs that emulate some of the functions of a search engine.  They store their data in a SQLITE3 database named [spider.sqlite](./pagerank/spider.sqlite).
